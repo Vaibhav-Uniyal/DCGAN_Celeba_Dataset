@@ -1,6 +1,6 @@
 # DCGAN on CelebA Dataset 🎭
 
-This project implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** to generate human faces using the **CelebA dataset**. The model is trained following the principles from the paper **"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"** by Radford et al.
+This project implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** to generate human faces using the **CelebA dataset**. 
 
 ---
 
