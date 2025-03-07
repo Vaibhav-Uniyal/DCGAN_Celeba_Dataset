@@ -118,7 +118,7 @@ After training for several epochs, the **generated faces** should look realistic
 
 | **Epoch 0** | **Epoch 10** | **Epoch 50** |
 |-----------|------------|------------|
-| ![Epoch 0]("C:\Users\vaibh\Desktop\image_epoch5.png") | ![Epoch 10](examples/epoch_10.png) | ![Epoch 50](examples/epoch_50.png) |
+| ![Epoch 0](./image_epoch5.png) | ![Epoch 10](./image_epoch10.png) | ![Epoch 50](./image_epoch50.png) |
 
 *Note: The more epochs, the better the image quality.*
 
