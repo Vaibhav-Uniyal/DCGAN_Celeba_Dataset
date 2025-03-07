@@ -244,14 +244,15 @@ After training for several epochs, the **generated faces** should look realistic
 
 ## 🎨 Generated Output Image
 
-![Generated Output](./generated_output.png)
+![Generated Output](./generated_image.png)
 
 ---
 
 ## 🏆 Next Steps
-- Tune **hyperparameters** for better results
-- Train for **more epochs** to improve image quality
-- Use **FID Score** to measure image realism
+- Tune **hyperparameters** for better results.
+- Use the full dataset or more images to train for a better quality output.
+- Train for **more epochs** to improve image quality.
+- Use **FID Score** to measure image realism.
 
-Made with ❤️ by [Your Name]
+
 
